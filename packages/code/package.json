@@ -1,0 +1,22 @@
+{
+  "name": "@rigger-cli/code",
+  "version": "1.0.0",
+  "description": "rigger-cli core",
+  "author": "杜金银 <jinyin.du@weimob.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/code.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@rigger-cli/utils": "^1.0.0"
+  }
+}
