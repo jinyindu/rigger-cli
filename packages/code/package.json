@@ -1,13 +1,13 @@
 {
   "name": "@rigger-cli/code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "rigger-cli core",
   "author": "杜金银 <jinyin.du@weimob.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/code.js",
   "bin": {
-    "rigger-cli":"bin/index.js"
+    "rigger-cli": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@rigger-cli/utils": "^1.0.1"
+    "@rigger-cli/utils": "^1.0.2"
   },
   "gitHead": "20051b6754b50e3d56d583e97e5a2d5f54c54d28",
   "publishConfig": {
