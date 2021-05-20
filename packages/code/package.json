@@ -1,6 +1,6 @@
 {
   "name": "@rigger-cli/code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rigger-cli core",
   "author": "杜金银 <jinyin.du@weimob.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@rigger-cli/utils": "^1.0.0"
+    "@rigger-cli/utils": "^1.0.1"
   }
 }
