@@ -22,5 +22,8 @@
   "dependencies": {
     "@rigger-cli/utils": "^1.0.1"
   },
-  "gitHead": "20051b6754b50e3d56d583e97e5a2d5f54c54d28"
+  "gitHead": "20051b6754b50e3d56d583e97e5a2d5f54c54d28",
+  "publishConfig": {
+    "access": "public"
+  }
 }
