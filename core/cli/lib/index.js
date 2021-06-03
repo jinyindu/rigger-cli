@@ -64,4 +64,5 @@ async function checkGlobalUpdate(){
     const npmName = pkg.name
     const getNpmInfo = require('@rigger-cli/get-npm-info')
     const data = await getNpmInfo(npmName)
+    console.log(data)
 }
