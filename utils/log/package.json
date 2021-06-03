@@ -1,0 +1,36 @@
+{
+  "name": "@rigger-cli/log",
+  "version": "1.0.2",
+  "description": "> TODO: description",
+  "author": "杜金银 <jinyin.du@weimob.com>",
+  "homepage": "https://github.com/jinyindu/rigger-cli#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.weimob.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinyindu/rigger-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/jinyindu/rigger-cli/issues"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "npmlog": "^4.1.2",
+    "root-check": "^2.0.0",
+    "semver": "^7.3.5",
+    "user-home": "^3.0.0"
+  }
+}
