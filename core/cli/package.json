@@ -20,9 +20,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@rigger-cli/get-npm-info": "file:../../utils/get-npm-info",
-    "@rigger-cli/log": "file:../../utils/log",
-    "@rigger-cli/utils": "file:../../utils/utils",
+    "@rigger-cli/get-npm-info": "^1.0.3",
+    "@rigger-cli/log": "^1.0.3",
+    "@rigger-cli/utils": "^1.0.3",
     "colors": "^1.4.0",
     "dotenv": "^10.0.0",
     "minimist": "^1.2.5",
@@ -31,7 +31,7 @@
     "semver": "^7.3.5",
     "user-home": "^3.0.0"
   },
-  "gitHead": "20051b6754b50e3d56d583e97e5a2d5f54c54d28",
+  "gitHead": "966428c67b3be0c3bfa4d63d985431f3757032c8",
   "publishConfig": {
     "access": "public"
   }

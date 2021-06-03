@@ -32,5 +32,6 @@
     "root-check": "^2.0.0",
     "semver": "^7.3.5",
     "user-home": "^3.0.0"
-  }
+  },
+  "gitHead": "966428c67b3be0c3bfa4d63d985431f3757032c8"
 }

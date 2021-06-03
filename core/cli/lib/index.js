@@ -58,12 +58,10 @@ function checkEnv(){
     let config = dotenv.config({})
     log.verbose('环境变量',config)
 }
-
 // 更新包
 async function checkGlobalUpdate(){
     const currentVersion = pkg.version
     const npmName = pkg.name
     const getNpmInfo = require('@rigger-cli/get-npm-info')
     const data = await getNpmInfo(npmName)
-    console.log('******',data)
 }
