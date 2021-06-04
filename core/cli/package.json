@@ -19,6 +19,10 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinyindu/rigger-cli.git"
+  },
   "dependencies": {
     "@rigger-cli/get-npm-info": "^1.0.6",
     "@rigger-cli/log": "^1.0.6",

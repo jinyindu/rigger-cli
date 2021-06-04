@@ -20,6 +20,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinyindu/rigger-cli.git"
+  },
   "dependencies": {
     "colors": "^1.4.0",
     "root-check": "^2.0.0",
